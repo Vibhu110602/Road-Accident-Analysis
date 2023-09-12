@@ -1,5 +1,7 @@
 # Road Accidents Analysis with Power BI
 
+![HR Analytics](https://i.ibb.co/yF463Cg/Screenshot-120.png)
+
 ## Overview
 This repository contains a Power BI project that focuses on the analysis of road accidents. The project aims to provide insights into the current year's accidents, year-over-year (YoY) growth of accidents, accidents by vehicle type (car, bike, trucks), accidents in dry and wet conditions, and geographic visualization of accidents using latitude and longitude data.
 
@@ -25,7 +27,7 @@ Road accidents are a significant concern, and this Power BI project aims to help
 
 ## Usage
 1. Clone this repository to your local machine:
-    ```
+    ```bash
    git clone https://github.com/Vibhu110602/Road-Accident-Analysis
    ```
 2. Open the Road Accident Analysis.pbix file in Power BI Desktop.
