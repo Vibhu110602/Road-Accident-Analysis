@@ -27,7 +27,7 @@ Road accidents are a significant concern, and this Power BI project aims to help
 
 ## Usage
 1. Clone this repository to your local machine:
-    ```bash
+   ```bash
    git clone https://github.com/Vibhu110602/Road-Accident-Analysis
    ```
 2. Open the Road Accident Analysis.pbix file in Power BI Desktop.
